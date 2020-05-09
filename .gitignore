@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Inventaire/.vs/Inventaire/v16
+/Inventaire/Inventaire/MDK
+/Inventaire/Inventaire/obj/x64/Debug
+/Inventaire/Inventaire/Instructions.readme
